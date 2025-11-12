@@ -18,7 +18,7 @@ const Index = () => {
     <div className="w-full flex justify-center">
       <QuizCard />
     </div>
-    <span className="text-center"><br />Best of Luck🤞<br /> Made and Maintained with ❤️ by Sagar Bhusal</span>
+    <span className="text-center"><br />Best of Luck <br /> Made and Maintained with ❤️ by Sagar Bhusal</span>
   </div>
 </div>
 
